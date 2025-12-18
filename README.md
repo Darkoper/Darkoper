@@ -10,19 +10,15 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ5dWVpeWVjdzI4NGNxeTIzcDRoczZ3YmJpbWtrNDdvOW0xMW51byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" height="150">
 </div>
 
-🚀 **Full Stack Developer** | 🌱 **Blockchain Enthusiast** | 💻 **Intern at SAAARP Labs, JNU**
+🚀 **Full Stack Developer** |**SDE Intern @ Stirring minds**
 
 ### 🚀 Welcome to My GitHub Profile!  
 
-💻 **Passionate about building scalable web applications**.  
+💻 **Passionate about building scalable web applications**.    
 
-🌍 **Exploring the world of blockchain technology**.  
+🏢 **Currently interning at Stirring minds**.  
 
-🏢 **Currently interning at SAAARP Labs, a blockchain-based startup**.  
-
-⚛️ **Honing my skills in React, Node.js, Express, and more**.  
-
-🤖 **Learning Generative AI and Blockchain Development**.  
+⚛️ **Honing my skills in React, Node.js, Express, and more**.    
 
 
 ## 🛠️ Tech Stack
